@@ -1,8 +1,6 @@
 # robot-friend
 
-You don't have a rubber duck to help you debug your code? No problem! I have made a digital robot to help you debug your code. You can talk to CodeBot, your coding buddy, as much as you want. So no more excuses to not debug your code! If bored, do some hovering :)
-
-I have practiced CSS in this project by making the robot to be able to blink as well as a number of different body movements when you hover on top of different elements.
+No rubber duck to debug your code? No worries! Introducing CodeBot, your digital coding companion designed to help you with debugging. Chat with CodeBot and get all the assistance you need. Say goodbye to excuses for not debugging your code! And hey, if you're feeling bored, give it a try and hover over different elements to see the robot blink and perform various body movements. It's a fun way to practice CSS skills!
 
 This project has been deployed using netlify and can be accessed directly by clicking on the link below:
 
